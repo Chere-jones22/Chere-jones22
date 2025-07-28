@@ -6,7 +6,7 @@
 
 ###
 
-<img align="left" height="153" src="https://mail.google.com/mail/u/0/?ui=2&ik=707077049e&attid=0.1&permmsgid=msg-a:r-6691489007338305003&th=196413fd7e43c5fd&view=fimg&realattid=F8070E9A-73F7-42D8-9459-835922E6BAA9&disp=thd&attbid=ANGjdJ91QjPt5C4ztDO-sbGfpU-2QVN6yKbHM73ZnNvupVg25fOevtzicphnn1ur764uM_HqUA-5LKmxCm7-M9i3S6atY72Y2jbw-zOCYOWwd9-JnAGYSjlFdcXqvO0&ats=2524608000000&sz=w1920-h945"  />
+<img align="left" height="153" src="https://github.com/user-attachments/assets/ed671a8b-e85f-4123-b4e4-05d1053b7779"  />
 
 ###
 
@@ -61,6 +61,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Chere-jones22/Chere-jones22/output/snake.svg" alt="Snake animation" />
 
 ###
