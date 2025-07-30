@@ -14,7 +14,8 @@
 
 ###
 
-<p align="left">Contact:<br>Phone: 334-467-6122<br>Email: chere.jones22@gmail.com</p>
+<h3 align="left"><br><br>Contact</h3>
+<p align="left">Phone: 334-467-6122<br>Email: chere.jones22@gmail.com</p>
 
 ###
 
